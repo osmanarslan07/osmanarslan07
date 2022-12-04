@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and being an SDET
 - 🌱 I’m currently learning Java Programming
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me osmanarslan07@yahoo.com or 
 
 <!---
 osmanarslan07/osmanarslan07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
