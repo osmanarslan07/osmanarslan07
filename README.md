@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @osmanarslan07
 - 👀 I’m Test Automation Engineer
-- 🌱 I’m currently improve my knowledge about Java, Selenium, Cucumber, Maven, API, Jenkins, Jira
+- 🌱 I’m currently improving my knowledge about Java, Selenium, Cucumber, Maven, API, Jenkins, Jira
 - 📫 How to reach me osmanarslan07@yahoo.com
 
 <!---
